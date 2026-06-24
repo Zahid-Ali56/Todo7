@@ -1,0 +1,11 @@
+1, subse phly file banye: .env 
+env create hojye to andr jake DB_DATABASE=todo7 krdin database connect hone k lye 
+
+2, uske bad Vendor folder ko install krna hi: composer install
+
+3, key generate krne hogi: php artisan key:generate
+
+
+nota: jab GitHub k lye folder apna bano to baki sare file hone chahy jo lrvel k hin bus .env , vendor ko chordo 
+
+example: controller aur routes me apni built-in file hone chahy
